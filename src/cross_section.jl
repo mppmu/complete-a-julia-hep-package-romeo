@@ -1,8 +1,8 @@
 
 @inline function _rho(E,m) 
-    #
-    # FIXME: implement this!
-    #
+    
+    rho = √(E^2  - m^2)
+
 end
 
 """
